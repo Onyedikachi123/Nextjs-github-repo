@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-This application was built with nextjs to get my personal repos from github using the github api
+This application was built to get my personal repos from github using the github api
 
 
 ## Getting Started
